@@ -1,0 +1,16 @@
+.header__logo {
+    position: absolute;
+    width: 137px;
+    height: 58px;
+    left: 405px;
+    top: 57px;
+}
+.nav__menu {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 900px;
+    margin-top: 79px;
+    font-weight: 400;
+}
+.nav__item {
+    margin-left: 48px;
+}

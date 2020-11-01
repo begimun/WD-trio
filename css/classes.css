@@ -1,0 +1,22 @@
+.container {
+    max-width: 1920px;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.text__center {
+    text-align: center;
+    position: absolute;
+    width: 357px;
+height: 233.7px;
+left: 265px;
+top: 280px;
+
+}
+.col-6 {
+    width: 50%;
+}
+

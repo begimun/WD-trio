@@ -1,0 +1,20 @@
+.microsoft {
+    height: 120px;
+    background: white;
+    margin: auto;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.microsoft__container {
+    max-width: 1110px;
+    margin: auto;
+}
+
+.microsoft__img {
+    width: 255px;
+    height: 120px;
+    padding-right: 20px;
+}

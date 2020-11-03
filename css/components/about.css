@@ -1,0 +1,28 @@
+.about {
+    padding: 100px 0 100px 0;
+  }
+  
+  .about__content {
+    max-width: 540px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .about__title {
+    margin: 0 0 20px 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    color: #000000;
+  }
+  
+  .about__description {
+    margin: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: var(--color-gray);
+  }
+  

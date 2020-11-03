@@ -1,0 +1,32 @@
+.footer {
+    height: 151px;
+    background: #34547a;
+}
+
+.footer__container {
+    max-width: 1110px;
+    margin: auto;
+}
+
+.footer__title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #ffffff;
+}
+
+.footer__subtitle {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 21px;
+    color: #ffffff;
+}
+
+.footer__img {
+    margin-top: 50px;
+    padding-left: 350px;
+}

@@ -5,6 +5,7 @@
 
 .flex {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .text__center {
@@ -14,9 +15,38 @@
 height: 233.7px;
 left: 265px;
 top: 280px;
-
 }
+
+.box {
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.relative {
+    position: relative;
+}
+
+.align__center {
+    align-items: center;
+}
+
+
 .col-6 {
     width: 50%;
 }
+
+.col-2 {
+    width: 16.66%;
+  }
+  
+  @media screen and (max-width:1024px) {
+    .col-2 {
+      width: 26%;
+    }
+    .projects__item {
+      margin-bottom: 40px;
+    }
+  }
+  
+
 
